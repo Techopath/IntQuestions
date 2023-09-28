@@ -1,0 +1,25 @@
+The scenarios for below questions are implemented under folder tests and file checkers.spec.js
+
+I – The Checkers Game
+For this exercise, implement the following steps:
+1. Navigate to https://www.gamesforthebrain.com/game/checkers/
+2. Confirm that the site is up
+3. Make five legal moves as orange:
+a) Include taking a blue piece
+b) Use “Make a move” as confirmation that you can take the next step
+c) Restart the game after five moves
+d) Confirm that the restarting had been successful
+You’ll find that the game engine is predictable enough to allow for you to win a game reliably.
+So, you can try for this if you’re inclined and have a little time left over.
+II – The Card Game
+For this exercise:
+1. Navigate to https://deckofcardsapi.com/
+2. Confirm the site is up
+3. Get a new deck
+4. Shuffle it
+5. Deal three cards to each of two players
+6. Check whether either has blackjack
+
+7. If either has, write out which one does
+Keep in mind that, for these exercises, quality wins over quantity. Showcase your coding
+craftsmanship and standards.
